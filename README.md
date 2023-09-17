@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thibault GILLARD</h1>
 <h3 align="center">I am a general engineering student from France</h3>
 
-- 🔭 I’m currently working on [SCARA Robot source code](https://github.com/Thibault-GILLARD/Blue_Robot_2022)
+- 🔭 I’m currently working on [ExplAInability](https://github.com/pierrert3/ExplAInability-P5A)
 
 - 🌱 I’m currently learning **machine learning, image recognition...**
 
